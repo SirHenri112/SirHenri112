@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @SirHenri112
+- 👀 I’m interested in Discord-Bots and Minecraft Plugins
+- 🌱 I’m currently learning Java / C++
+- 📫 How to reach me: Through E-Mails
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My first programm was a .BATCH-Script, using the Windows-Terminal language
